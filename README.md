@@ -81,7 +81,7 @@ Instead of passively reading through hundreds of pages of PDF notes, you can sim
 
 | **Notes Explanation** |
 | :---: |
-| ![image alt](image_url) |
+| ![image alt](https://github.com/KMG1610/AI-StudyBuddy/blob/main/EXPLANATION-SS.png?raw=true) |
 
 | **Notes Summarization** |
 | :---: |
