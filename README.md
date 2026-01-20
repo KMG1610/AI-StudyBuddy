@@ -77,7 +77,7 @@ Instead of passively reading through hundreds of pages of PDF notes, you can sim
 
 | **Upload Interface** | **Quiz Generation** |
 | :---: | :---: |
-| ![image alt](image_url) | ![image alt](image_url) |
+| ![image alt](https://github.com/KMG1610/AI-StudyBuddy/blob/main/UI-SS.png?raw=true) | ![image alt](image_url) |
 | **Quiz Generation** |
 | :---: |
 | ![image alt](image_url) |
