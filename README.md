@@ -89,7 +89,7 @@ Instead of passively reading through hundreds of pages of PDF notes, you can sim
 
 | **Quiz Generation** |
 | :---: |
-| ![image alt](image_url) |
+| ![image alt](https://github.com/KMG1610/AI-StudyBuddy/blob/main/QUIZ-SS.png?raw=true) |
 
 | **Flashcard Generation** |
 | :---: |
