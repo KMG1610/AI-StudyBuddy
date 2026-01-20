@@ -75,12 +75,21 @@ Instead of passively reading through hundreds of pages of PDF notes, you can sim
 
 ## 📸 Screenshots
 
-| **Upload Interface** | **Quiz Generation** |
-| :---: | :---: |
-| ![image alt](https://github.com/KMG1610/AI-StudyBuddy/blob/main/UI-SS.png?raw=true) | ![image alt](image_url) |
-| **Quiz Generation** |
-| :---: |
+| ## **UI Interface** |
+| ![image alt](https://github.com/KMG1610/AI-StudyBuddy/blob/main/UI-SS.png?raw=true) |
+
+| **Notes Explanation** |
 | ![image alt](image_url) |
+
+| **Notes Summarization** |
+| ![image alt](image_url) |
+
+| **Quiz Generation** |
+| ![image alt](image_url) |
+
+| **Flashcard Generation** |
+| ![image alt](image_url) |
+
 ## 🔮 Future Roadmap
 
 * [ ] **RAG Integration:** Support for querying massive textbooks (500+ pages) without token limits.
