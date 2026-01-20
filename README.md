@@ -85,7 +85,7 @@ Instead of passively reading through hundreds of pages of PDF notes, you can sim
 
 | **Notes Summarization** |
 | :---: |
-| ![image alt](image_url) |
+| ![image alt](https://github.com/KMG1610/AI-StudyBuddy/blob/main/SUMMARY-SS.png?raw=true) |
 
 | **Quiz Generation** |
 | :---: |
