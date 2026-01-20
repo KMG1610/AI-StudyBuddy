@@ -75,12 +75,12 @@ Instead of passively reading through hundreds of pages of PDF notes, you can sim
 
 ## 📸 Screenshots
 
-*(Add screenshots of your running application here to showcase the UI)*
-
 | **Upload Interface** | **Quiz Generation** |
 | :---: | :---: |
-| *[Insert Image Link]* | *[Insert Image Link]* |
-
+| ![image alt](image_url) | ![image alt](image_url) |
+| **Quiz Generation** |
+| :---: |
+| ![image alt](image_url) |
 ## 🔮 Future Roadmap
 
 * [ ] **RAG Integration:** Support for querying massive textbooks (500+ pages) without token limits.
