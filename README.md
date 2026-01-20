@@ -93,7 +93,7 @@ Instead of passively reading through hundreds of pages of PDF notes, you can sim
 
 | **Flashcard Generation** |
 | :---: |
-| ![image alt](image_url) |
+| ![image alt](https://github.com/KMG1610/AI-StudyBuddy/blob/main/FLASHCARDS-SS.png?raw=true) |
 
 ## 🔮 Future Roadmap
 
@@ -113,5 +113,5 @@ This project is open-source and available under the **MIT License**.
 ---
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made by Kshitij Gaikwad
 </p>
