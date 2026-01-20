@@ -2,7 +2,7 @@
 
 **Your Intelligent Academic Assistant powered by Google Gemini 1.5 Flash.**
 
-![Status](https://img.shields.io/badge/Status-Live-green) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ksgaik/AI-Study-Budy) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)].[https://colab.research.google.com/drive/1iKTo6CFA7YTiOneWoZABI6bUaaFgHizM?usp=sharing])
+![Status](https://img.shields.io/badge/Status-Live-green) [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ksgaik/AI-Study-Budy) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iKTo6CFA7YTiOneWoZABI6bUaaFgHizM?usp=sharing)
 
 ## 📖 Overview
 
